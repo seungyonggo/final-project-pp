@@ -261,6 +261,14 @@
 <br>
 
 <h2>시연영상</h2>
+- 메인
+
+![메인](https://github.com/FrontEnd-Team3/final-project-pp/assets/123628457/962d5327-d9ca-4901-8958-ededa65b3db0)
+
+- 메인 미디어 쿼리
+
+![메인 미디어쿼리](https://github.com/FrontEnd-Team3/final-project-pp/assets/123628457/284591f3-a5eb-428e-9d46-cf02bc443eed)
+
 - 채팅
 
 ![채팅](https://github.com/FrontEnd-Team3/final-project-pp/assets/123628457/0a17dc43-3b30-4b6a-99d4-51052c87d234)
@@ -275,6 +283,4 @@
 
 - 상세 페이지 미디어 쿼리
 
-- 채팅
-
-- 채팅 미디어 쿼리
+![상세 미디어쿼리](https://github.com/FrontEnd-Team3/final-project-pp/assets/123628457/5b6815e9-fd0c-4b57-83c3-4cf117e54f8c)
