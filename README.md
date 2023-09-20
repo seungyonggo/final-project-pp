@@ -262,6 +262,7 @@
 
 <h2>시연영상</h2>
 - 채팅
+
 ![채팅](https://github.com/FrontEnd-Team3/final-project-pp/assets/123628457/0a17dc43-3b30-4b6a-99d4-51052c87d234)
 
 - 채팅 미디어 쿼리
