@@ -268,3 +268,13 @@
 - 채팅 미디어 쿼리
 
 ![채팅](https://github.com/FrontEnd-Team3/final-project-pp/assets/123628457/ec3e0657-93a5-4614-8dd4-58e23bfa0eb2)
+
+- 상세 페이지
+
+![상세페이지](https://github.com/FrontEnd-Team3/final-project-pp/assets/123628457/360235a5-d9c0-46dd-a03f-4881d76ca146)
+
+- 상세 페이지 미디어 쿼리
+
+- 채팅
+
+- 채팅 미디어 쿼리
