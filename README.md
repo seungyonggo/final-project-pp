@@ -261,7 +261,5 @@
 <br>
 
 <h2>시연영상</h2>
-<p align="center">
-<img src="![채팅미디어쿼리](https://github.com/seungyonggo/js-code-festival/assets/123628457/3a79be21-3a9d-4738-b531-53869e33a200)
-">
-</p>
+![채팅미디어쿼리](https://github.com/seungyonggo/js-code-festival/assets/123628457/3a79be21-3a9d-4738-b531-53869e33a200)
+
