@@ -261,5 +261,6 @@
 <br>
 
 <h2>시연영상</h2>
+- 채팅 미디어 쿼리
 ![채팅미디어쿼리](https://github.com/seungyonggo/js-code-festival/assets/123628457/3a79be21-3a9d-4738-b531-53869e33a200)
 
